@@ -1,0 +1,11 @@
+# Dependencies and cache
+node_modules/
+.cache/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.env
+.replit.nix
+
+.venv/
